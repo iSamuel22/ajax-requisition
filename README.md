@@ -3,11 +3,11 @@
 Este projeto demonstra como realizar uma requisição AJAX utilizando jQuery para buscar dados de clientes em formato JSON. É uma aplicação simples que ilustra a interação entre um cliente e um servidor, permitindo visualizar informações de clientes em uma interface web.
 
 ## 📑 Índice
-1. [Funcionalidades](#)
-2. [Tecnologias Utilizadas](#)
-3. [Pré-requisitos](#)
-4. [Instalação](#)
-5. [Autor](#)
+1. [Funcionalidades](#%EF%B8%8F-funcionalidades)
+2. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+3. [Pré-requisitos](#-pré-requisitos)
+4. [Instalação](#-instalação)
+5. [Autor](#-autor)
 
 ## ⚙️ Funcionalidades
 

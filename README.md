@@ -32,9 +32,8 @@ Para executar este projeto, você precisará de:
 
 Clone o repositório:
 
-```bash
-Copiar código
-git clone https://github.com/seu-usuario/ajax-clientes.git
+```git
+git clone https://github.com/smuelp/ajax-requisition.git
 ```
 
 ## 👤 Autor

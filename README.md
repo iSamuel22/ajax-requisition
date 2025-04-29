@@ -33,7 +33,7 @@ Para executar este projeto, você precisará de:
 Clone o repositório:
 
 ```git
-git clone https://github.com/smuelp/ajax-requisition.git
+git clone https://github.com/iSamuel22/ajax-requisition.git
 ```
 
 ## 👤 Autor
